@@ -2,7 +2,7 @@ package mypackage.classes;
 
 public class Student {
     String name;
-    int grade;
+    int grade; 
 
 
     //생성자 -> 초기화(값을 초기값으로 할당하는 것) -> 파이썬은 선언과 할당을 동시에 해줌(동적 타이핑)
