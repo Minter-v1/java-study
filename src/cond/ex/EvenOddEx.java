@@ -8,3 +8,4 @@ public class EvenOddEx {
         System.out.println(ans);
     }
 }
+
